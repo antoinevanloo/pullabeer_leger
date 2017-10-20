@@ -107,7 +107,7 @@
 			interval: 3000
 		})
 	</script>
-	
+	<!--</script>-->
 	
 
 </html>
